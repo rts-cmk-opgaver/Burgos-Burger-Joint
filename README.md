@@ -12,21 +12,26 @@ Den mundtlige del af grundforløbsprøven tager udgangspunkt i den praktiske opg
 ## Opgave beskrivelse
 
 ### Del1 – Layout
-Du skal opbygge det udleveret layout i en **gennemtænkt semantisk struktur**, hvor du samtidig tager højde for **hensigtsmæssig navngivning og filstruktur**. Layoutet kan løses på flere forskellige måder, og du vil derfor blive vurderes på din evne til at kunne argumentere for de valg du har truffet omkring brug af:
+Du skal opbygge det udleveret layout i en **gennemtænkt semantisk struktur**, hvor du samtidig tager højde for **hensigtsmæssig navngivning og filstruktur**. Layoutet kan løses på flere forskellige måder, og du vil derfor blive vurderet på din evne til at kunne forklare og argumentere for de valg du har truffet omkring:
 
 * Layout model 
-* Boxmodel 
-* Samantiske valg
+* Box model 
+* Samantiske 
 
 ### Del2 – Galleri
-Galleriet skal programmeres i JavaScript. 
-Galleriets stort billede skal som default være det samme, som det første i rækken af thumbnails. Din opgave er at implementere en **performance venlig løsning** som gør brug af så få event handlers som det er muligt.<br>
+Galleriet skal **programmeres i JavaScript**. Galleriets stort billede skal som default være det samme, som det første i rækken af thumbnails.
+
+
+Din opgave er at implementere en **performance venlig løsning** som gør brug af så få event handlers som det er muligt.<br>
 ***Hint: event delegation***
 
 ### Del3 – Kontaktformular
-Kontaktformularen skal valideres med JavaScript og det er vigtigt at der implementeres **brugervenlige fejlmeddelser**, som falder naturligt ind i det eksisterende userinterface. Der er flere mulige løsninger hvorpå, din opgave er at udtænke og implementere en brugervenlig løsning for slutbrugeren. Du vil blive vurderes på din evne til at kunne forklare/forsvare følgende: 
+Kontaktformularen skal valideres med JavaScript og der skal gives feedback til slutbrugeren. Din opgave er at udtænke og implementere **brugervenlige fejlmeddelser**, som falder naturligt ind i det eksisterende userinterface. Du vil blive vurderes på din evne til at kunne: 
 
+Forklare:
 * Hvordan formularens data valideres
+
+Forsvare:
 * Hvordan fejlmeddelelser er integreret
  
 
