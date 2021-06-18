@@ -9,8 +9,7 @@ Den færdige opgave skal afleveres på GitHub ...
 ## Mundtlig prøve
 Den mundtlige del af grundforløbsprøven tager udgangspunkt i den praktiske opgave. Du vil blive vurderet på projektets færdighedsgrad samt din evne til at formidle hvad du har udviklet og ikke mindst hvordan du har gjort det.
 
-
-
+## Opgave beskrivelse
 
 ### Del1 – Layout
 Du skal opbygge det udleveret layout i en **gennemtænkt semantisk struktur**, hvor du samtidig tager højde for **hensigtsmæssig navngivning og filstruktur** på sitet. Layoutet kan løses på flere forskellige måder, og du vil derfor blive vurderes på din evne til at kunne argumentere for de valg du har truffet omkring brug af layout model, boxmodel samt dine samantiske overvejelser og beslutninger.
