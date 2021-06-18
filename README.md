@@ -19,14 +19,17 @@ Den færdige opgave skal afleveres på GitHub ...
 * Semantik 
 
 ### Del2 – Galleri
-**Din opgave er at:** Programmere et galleri i JavaScript som implementere så **få event handlers** som det er muligt, for at spare hukommelse og behandlingstid. Du vil blive vurderet på din evne til / viden om at
+**Din opgave er at:** Programmere et galleri i JavaScript. Der er flere mulige løsninger, men du opfordres til at udtænke en løsning som implementere så **få event handlers** som det er muligt.<br>
+Du vil blive vurderet på din evne til at kunne forklare:<br>
 
-* Navigere i objekt strukture
-* DOM Manipulation
-* 
+* Din tekniske løsning
 
 ### Del3 – Anbefalede Yummies
+**Din opgave er at:** Udtænke en løsning, hvor data tilhørende de enkelte anbefalede yummies struktureres og præsenteres fra en hensigtsmæssig data model. 
 
+Du vil blive vurderet på din evne til at forklare:
+* Din data model/ struktur
+* Din måde at connecte data til DOM
 
 ### Del4 – Kontaktformular
 Kontaktformularen skal **valideres med JavaScript** og der skal gives **feedback** til slutbrugeren.<br>
