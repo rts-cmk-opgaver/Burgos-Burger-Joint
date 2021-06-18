@@ -12,7 +12,7 @@ Den mundtlige del af grundforløbsprøven tager udgangspunkt i den praktiske opg
 ## Opgave beskrivelse
 
 ### Del1 – Layout
-Du skal opbygge det udleveret layout i en **gennemtænkt semantisk struktur**, hvor du samtidig tager højde for **hensigtsmæssig navngivning og filstruktur** på sitet. Layoutet kan løses på flere forskellige måder, og du vil derfor blive vurderes på din evne til at kunne argumentere for de valg du har truffet omkring brug af layout model, boxmodel samt dine samantiske overvejelser og beslutninger.
+Du skal opbygge det udleveret layout i en **gennemtænkt semantisk struktur**, hvor du samtidig tager højde for **hensigtsmæssig navngivning og filstruktur**. Layoutet kan løses på flere forskellige måder, og du vil derfor blive vurderes på din evne til at kunne argumentere for de valg du har truffet omkring brug af layout model, boxmodel samt dine samantiske overvejelser og beslutninger.
 
 ### Del2 – Galleri
 Galleriet skal programmeres i JavaScript. 
