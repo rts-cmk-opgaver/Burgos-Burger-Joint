@@ -19,7 +19,8 @@ Den mundtlige del af grundforløbsprøven tager udgangspunkt i den praktiske opg
 * Samantiske 
 
 ### Del2 – Galleri
-Galleriet skal **programmeres i JavaScript**. Galleriets stort billede skal som default være det samme, som det første i rækken af thumbnails.<br>
+Galleriet skal **programmeres i JavaScript**.<br>
+Galleriets stort billede skal som default være det samme, som det første i rækken af thumbnails.<br>
 **Din opgave er at:** feowfoek
 
 
