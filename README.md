@@ -19,15 +19,16 @@ Den færdige opgave skal afleveres på GitHub ...
 * Semantik 
 
 ### Del2 – Galleri
-Galleriet skal **programmeres i JavaScript**.<br>
-Galleriets stort billede skal som default være det samme, som det første i rækken af thumbnails.<br>
-**Din opgave er at:** feowfoek
+**Din opgave er at:** Programmere et galleri i JavaScript som implementere så **få event handlers** som det er muligt, for at spare hukommelse og behandlingstid. Du vil blive vurderet på din evne til / viden om at
+
+* Navigere i objekt strukture
+* DOM Manipulation
+* 
+
+### Del3 – Anbefalede Yummies
 
 
-Din opgave er at: implementere en **performance venlig løsning** som gør brug af så få event handlers som det er muligt.<br>
-***Hint: event delegation***
-
-### Del3 – Kontaktformular
+### Del4 – Kontaktformular
 Kontaktformularen skal **valideres med JavaScript** og der skal gives **feedback** til slutbrugeren.<br>
 **Din opgave er at:** Udtænke og implementere **brugervenlige fejlmeddelser**, som falder naturligt ind i det eksisterende user interface. Du vil blive vurderes på din evne til at kunne: 
 
