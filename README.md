@@ -13,17 +13,19 @@ Den mundtlige del af grundforløbsprøven tager udgangspunkt i den praktiske opg
 
 
 ### Del1 – Layout
-Du skal opbygge forsiden til sitet i en gennemtænkt semantisk struktur, hvor du samtidig tager højde for hensigtsmæssig navngivning og filstruktur på sitet.
-Layoutet kan løses på flere forskellige måder, og du vil derfor blive vurderes på din evne til at kunne argumentere for de valg du har truffet i forbindelse med layout model, boxmodel samt samantiske overvejelser og beslutninger.
+Du skal opbygge det udleveret layout i en **gennemtænkt semantisk struktur**, hvor du samtidig tager højde for **hensigtsmæssig navngivning og filstruktur** på sitet. Layoutet kan løses på flere forskellige måder, og du vil derfor blive vurderes på din evne til at kunne argumentere for de valg du har truffet omkring brug af layout model, boxmodel samt dine samantiske overvejelser og beslutninger.
 
 ### Del2 – Galleri
 Galleriet skal programmeres i JavaScript. 
-Galleriets stort billede skal som default være det samme, som det første i rækken af thumbnails. Din opgave er at implementere en performance venlig løsning som gør brug af så få event handlers som det er muligt.
+Galleriets stort billede skal som default være det samme, som det første i rækken af thumbnails. Din opgave er at implementere en **performance venlig løsning** som gør brug af så få event handlers som det er muligt.
 ***Hint: event delegation***
 
 ### Del3 – Kontaktformular
-Sitets kontaktformular skal valideres med JavaScript og det er vigtigt at der implementeres brugervenlige fejlmeddelser, som falder naturligt ind i det eksisterende userinterface. Der er flere mulige løsninger hvorpå, din opgave er at finde en den optimale løsning på implementeringen fejlmeddelser. Du vil blive vurderes på din evne til at agumentere for din løsning. 
+Kontaktformularen skal valideres med JavaScript og det er vigtigt at der implementeres **brugervenlige fejlmeddelser**, som falder naturligt ind i det eksisterende userinterface. Der er flere mulige løsninger hvorpå, din opgave er at udtænke og implementere en brugervenlig løsning for slutbrugeren. Du vil blive vurderes på din evne til at kunne forklare/forsvare følgende: 
 
+* Hvordan formularens data valideres
+* Hvordan fejlmeddelelser er integreret i underinterfacet  
+ 
 
 
 
