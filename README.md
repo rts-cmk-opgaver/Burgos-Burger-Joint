@@ -28,10 +28,9 @@ Din opgave er at implementere en **performance venlig løsning** som gør brug a
 ### Del3 – Kontaktformular
 Kontaktformularen skal valideres med JavaScript og der skal gives feedback til slutbrugeren. Din opgave er at udtænke og implementere **brugervenlige fejlmeddelser**, som falder naturligt ind i det eksisterende userinterface. Du vil blive vurderes på din evne til at kunne: 
 
-Forklare:
+**Forklare:**
 * Hvordan formularens data valideres
-
-Forsvare:
+**Forsvare:**
 * Hvordan fejlmeddelelser er integreret
  
 
