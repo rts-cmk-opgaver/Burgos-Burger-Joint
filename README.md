@@ -16,7 +16,7 @@ Den færdige opgave skal afleveres på GitHub ...
 
 * Layout model 
 * Box model 
-* Samantiske 
+* Semantik 
 
 ### Del2 – Galleri
 Galleriet skal **programmeres i JavaScript**.<br>
