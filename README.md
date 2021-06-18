@@ -30,6 +30,7 @@ Kontaktformularen skal valideres med JavaScript og der skal gives feedback til s
 
 **Forklare:**
 * Hvordan formularens data valideres
+
 **Forsvare:**
 * Hvordan fejlmeddelelser er integreret
  
