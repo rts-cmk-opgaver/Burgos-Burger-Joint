@@ -28,7 +28,7 @@ Din opgave er at: implementere en **performance venlig løsning** som gør brug 
 ***Hint: event delegation***
 
 ### Del3 – Kontaktformular
-Kontaktformularen skal valideres med JavaScript og der skal gives feedback til slutbrugeren.<br>
+Kontaktformularen skal **valideres med JavaScript** og der skal gives **feedback** til slutbrugeren.<br>
 **Din opgave er at:** Udtænke og implementere **brugervenlige fejlmeddelser**, som falder naturligt ind i det eksisterende user interface. Du vil blive vurderes på din evne til at kunne: 
 
 **Forklare:**
