@@ -33,7 +33,7 @@ Kontaktformularen skal **valideres med JavaScript** og der skal gives **feedback
 **Din opgave er at:** Udtænke og implementere **brugervenlige fejlmeddelser**, som falder naturligt ind i det eksisterende user interface. Du vil blive vurderes på din evne til at kunne: 
 
 **Forklare:**
-* Hvordan formularens data valideres
+* Hvordan formularens data bliver valideret
 
 **Forsvare:**
 * Hvordan fejlmeddelelser er integreret i user interface
