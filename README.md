@@ -17,7 +17,9 @@ Du skal opbygge forsiden til sitet i en gennemtænkt semantisk struktur, hvor du
 Layoutet kan løses på flere forskellige måder, og du vil derfor blive vurderes på din evne til at kunne argumentere for de valg du har truffet i forbindelse med layout model, boxmodel samt samantiske overvejelser og beslutninger.
 
 ### Del2 – Galleri
-Galleriet skal programmeres i JavaScript. Galleriet skal have et stort billede som default, som matcher det første billede i rækken af thumbnails.
+Galleriet skal programmeres i JavaScript. 
+Galleriets stort billede skal som default være det samme, som det første i rækken af thumbnails. Din opgave er at implementere en performance venlig løsning som gør brug af så få event handlers som det er muligt.
+***Hint: event delegation***
 
 ### Del3 – Kontaktformular
 Sitets kontaktformular skal valideres med JavaScript og det er vigtigt at der implementeres brugervenlige fejlmeddelser, som falder naturligt ind i det eksisterende userinterface. Der er flere mulige løsninger hvorpå, din opgave er at finde en den optimale løsning på implementeringen fejlmeddelser. Du vil blive vurderes på din evne til at agumentere for din løsning. 
