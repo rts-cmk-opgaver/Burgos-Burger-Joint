@@ -21,6 +21,9 @@ opgaven skal være uploaded seneste kl. 15.10
 * Box model 
 * Layout model 
 
+**Skrifttypen som er brugt layoutet hedder:** 
+Nunito Sans (https://fonts.google.com/specimen/Nunito+Sans?query=Nunito+Sans)
+
 ### Del2 – Galleri
 **Din opgave er at:** Programmere et galleri i JavaScript. Galleriets store billede skal som default være det samme som det første billede i rækken af thumbnails.
 Du vil blive vurderet på:
