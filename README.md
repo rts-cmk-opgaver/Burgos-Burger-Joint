@@ -7,7 +7,8 @@ Grundforløbsprøven varer samlet set **6 timer og 30 minutter**. Denne praktisk
 Den mundtlige del af grundforløbsprøven tager udgangspunkt i den praktiske opgave. Du vil blive vurderet på projektets færdighedsgrad samt din evne til at formidle hvad du har udviklet og ikke mindst hvordan du har gjort det.
 
 ## Aflevering
-Den færdige opgave skal afleveres på GitHub ...
+Den færdige opgave skal afleveres på GitHub i det assignment repository som har følgende prefix: burgos-burger-joint.<br>
+opgaven skal være uploaded seneste kl. 15.10
 
 ## Opgave beskrivelse
 
