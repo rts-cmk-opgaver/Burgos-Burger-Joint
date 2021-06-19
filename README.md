@@ -21,7 +21,7 @@ opgaven skal være uploaded seneste kl. 15.10
 * Box model 
 * Layout model 
 
-**Skrifttypen som er brugt layoutet hedder:**<br>
+**Skrifttypen som skal bruges i layoutet hedder:**<br>
 Nunito Sans (https://fonts.google.com/specimen/Nunito+Sans?query=Nunito+Sans)
 
 ### Del2 – Galleri
