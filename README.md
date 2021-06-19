@@ -42,7 +42,8 @@ Kontaktformularen skal **valideres med JavaScript** og der skal gives **feedback
 **Forsvare:**
 * Hvordan fejlmeddelelser er integreret i user interface
  
-
+Happy Hacking
+Troels
 
 
 
