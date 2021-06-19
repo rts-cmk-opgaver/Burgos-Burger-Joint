@@ -14,9 +14,9 @@ Den færdige opgave skal afleveres på GitHub ...
 ### Del1 – Layout
 **Din opgave er at:** Opbygge det udleveret layout i en **gennemtænkt semantisk struktur**, hvor du samtidig tager højde for **hensigtsmæssig navngivning og filstruktur**. Layoutet kan løses på flere forskellige måder, og du vil derfor blive vurderet på din evne til at kunne forklare og argumentere for de valg du har truffet omkring:
 
-* Layout model 
+* Semantik
 * Box model 
-* Semantik 
+* Layout model 
 
 ### Del2 – Galleri
 **Din opgave er at:** Programmere et galleri i JavaScript. Der er flere mulige løsninger, men du opfordres til at udtænke en løsning som implementere så **få event handlers** som det er muligt.<br>
