@@ -19,21 +19,21 @@ Den færdige opgave skal afleveres på GitHub ...
 * Layout model 
 
 ### Del2 – Galleri
-**Din opgave er at:** Programmere et galleri i JavaScript. Der er flere mulige løsninger, men du opfordres til at udtænke en løsning som implementere så **få event handlers** som det er muligt.<br>
-Du vil blive vurderet på din evne til at kunne forklare:<br>
+**Din opgave er at:** Programmere et galleri i JavaScript. Galleriets store billede skal som default være det samme som det første billede i rækken af thumbnails.
+Du vil blive vurderet på:
 
-* Din tekniske løsning
+* Galleriets funktionalitet
+* Den tekniske løsning
 
 ### Del3 – Anbefalede Yummies
-**Din opgave er at:** Udtænke en løsning, hvor data tilhørende de enkelte anbefalede yummies struktureres og præsenteres fra en hensigtsmæssig data model. 
-
+**Din opgave er at:** Udtænke en løsning, hvor data tilhørende de enkelte anbefalede yummies fx. tekst og billede sti, struktureres og præsenteres fra en hensigtsmæssig data model fx. objekt, array e.l.<br>
 Du vil blive vurderet på din evne til at forklare:
-* Din data model/ struktur
-* Din måde at connecte data til DOM
+
+* Din løsning til at connecte/ præsentere data fra JavaScript i DOM(Document Object Model)
 
 ### Del4 – Kontaktformular
 Kontaktformularen skal **valideres med JavaScript** og der skal gives **feedback** til slutbrugeren.<br>
-**Din opgave er at:** Udtænke og implementere **brugervenlige fejlmeddelser**, som falder naturligt ind i det eksisterende user interface. Du vil blive vurderes på din evne til at kunne: 
+**Din opgave er at:** Udtænke og implementere **brugervenlige fejlmeddelser**, som falder naturligt ind i det eksisterende user interface.<br>Du vil blive vurderes på din evne til at kunne: 
 
 **Forklare:**
 * Hvordan formularens data bliver valideret
