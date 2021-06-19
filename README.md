@@ -10,6 +10,8 @@ Den mundtlige del af grundforløbsprøven tager udgangspunkt i den praktiske opg
 Den færdige opgave skal afleveres på GitHub i det assignment repository som har følgende prefix: burgos-burger-joint.<br>
 opgaven skal være uploaded seneste kl. 15.10
 
+<hr>
+
 ## Opgave beskrivelse
 
 ### Del1 – Layout
