@@ -15,14 +15,15 @@ opgaven skal være uploaded seneste kl. 15.10
 ## Opgave beskrivelse
 
 ### Del1 – Layout
+
+**Skrifttypen som skal bruges i layoutet hedder:**<br>
+Nunito Sans (https://fonts.google.com/specimen/Nunito+Sans?query=Nunito+Sans)
+
 **Din opgave er at:** Opbygge det udleveret layout i en **gennemtænkt semantisk struktur**, hvor du samtidig tager højde for **hensigtsmæssig navngivning og filstruktur**. Layoutet kan løses på flere forskellige måder, og du vil derfor blive vurderet på din evne til at kunne forklare og argumentere for de valg du har truffet omkring:
 
 * Semantik
 * Box model 
-* Layout model 
-
-**Skrifttypen som skal bruges i layoutet hedder:**<br>
-Nunito Sans (https://fonts.google.com/specimen/Nunito+Sans?query=Nunito+Sans)
+* Layout model
 
 ### Del2 – Galleri
 **Din opgave er at:** Programmere et galleri i JavaScript. Galleriets store billede skal som default være det samme som det første billede i rækken af thumbnails.
