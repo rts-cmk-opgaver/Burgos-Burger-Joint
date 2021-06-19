@@ -44,7 +44,7 @@ Kontaktformularen skal **valideres med JavaScript** og der skal gives **feedback
 
 <hr>
 
-Happy Hacking
+Happy Hacking<br>
 Troels
 
 
